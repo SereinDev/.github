@@ -4,10 +4,10 @@
 
 ---
 
-| Links                                                        | Description                     |
-| ------------------------------------------------------------ | ------------------------------- |
-| [📦下载](https://github.com/SereinDev/Serein/releases/latest) | 所有文件都在这里发布            |
-| [🔗官网<sup>[2.0]</sup>](https://sereindev.github.io/)        | `Serein 2.0`的文档 |
-| [🔗官网<sup>[1.3]</sup>](https://serein.cc/)                  | `Serein 1.3`的文档（已过时）              |
-| [🌌社区帐号](https://github.com/SereinCommunity)              | 一些扩展                        |
-| [🔗社区网站](https://sereincommunity.github.io/)              | 扩展的发布页       |
+| Links                                                        | Description                      |
+| ------------------------------------------------------------ | -------------------------------- |
+| [📦下载](https://github.com/SereinDev/Serein/releases/latest) | 所有文件都在这里发布             |
+| [🔗官网<sup>[2.0]</sup>](https://sereindev.github.io/)        | `Serein` v2.0的文档              |
+| [🔗~官网<sup>[1.3]</sup>~](https://serein.cc/)                | `Serein` v1.3的文档 _（已过时）_ |
+| [🌌社区帐号](https://github.com/SereinCommunity)              | 一些扩展                         |
+| [🔗社区网站](https://sereincommunity.github.io/)              | 扩展的发布页                     |
